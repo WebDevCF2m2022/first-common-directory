@@ -1,7 +1,7 @@
 # first-common-directory
 Notre premier répertoire GIT en commun
 ## Etape 1
-Créez un fork de ce répertoire en cliquant sur `Fork` en haut à droite, il se trouvera sur https://github.com/*VotreUsername*/
+Créez un fork de ce répertoire en cliquant sur `Fork` en haut à droite, il se trouvera sur github.com/*VotreUsername*/
 ## Etape 2
 Clonez ce répertoire en copiant l'adresse ssh de votre clone -> `code` -> git@github.com:*VotreUsername*/first-common-directory.git
 
@@ -31,3 +31,5 @@ Ajoutez l'`upstream`, le lien vers le projet original :
     git remote -v
     
 C'est de là que vous récupérerez le projet après les validations, et c'est vers ce serveur que vous pourrez demander une intégration de votre travail via un `pull request`
+
+A suivre ...
